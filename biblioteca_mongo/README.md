@@ -40,3 +40,5 @@ Aplicación de línea de comandos en Python que permite gestionar una biblioteca
 ## 📌 Configuración del Proyecto
 
 ### 1. Clonar el repositorio
+### 2. Instalar dependencias
+## ▶️ Ejecución del programa
